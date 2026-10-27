@@ -138,3 +138,19 @@ Developed an integrated BI and BA portfolio solution demonstrating requirements 
 Business Analyst | Business Intelligence Analyst | Power BI PL-300 Certified
 
 *Portfolio project | October 2026*
+
+---
+
+## Power BI Dashboard Screenshots
+
+### Page 1 – Executive Overview
+![Executive Overview](cc1.png)
+
+### Page 2 – Churn & Retention Analysis
+![Churn and Retention Analysis](cc2.png)
+
+### Page 3 – Campaign Analysis
+![Campaign Analysis](cc3.png)
+
+### Page 4 – Customer 360
+![Customer 360 Dashboard](cc4.png)
